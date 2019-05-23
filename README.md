@@ -13,7 +13,7 @@
 In this lab, we will be coding the solutions for each of the above tasks in the
 body of a method. In `lib/array_methods.rb` we've defined a series of methods
 for you, each of which is responsible for one of the tasks above. Your job is to
-write the code in the body of each method to get the tests passing.
+write the code in the body of each method to get the tests passing.n
 
 Each method takes in an argument of an array. You will call the appropriate
 method, such as `include?` or `first`, on that array to get the test passing.
